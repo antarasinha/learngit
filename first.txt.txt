@@ -1,3 +1,0 @@
-here is my first git use file
-
-Now I am making some changes in it.
